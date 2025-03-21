@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rmigon/rmigon-images/refs/heads/main/images/banner.png?token=GHSAT0AAAAAADAQIZL7LFLOMCVAEIAM7T5GZ65VL4Q" alt="Stephan's Quintet via James Webb" />
+  <img src="https://raw.githubusercontent.com/rmigon/rmigon-images/refs/heads/main/images/banner.png?token=GHSAT0AAAAAADAQIZL6ZTSGFL3EE6QD56DOZ65VTZQ" alt="Stephan's Quintet via James Webb" />
 </div>
 
 ---
