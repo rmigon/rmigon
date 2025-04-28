@@ -14,7 +14,8 @@ I thrive on tackling complex problems, breaking them down into manageable pieces
 
 ### 📂 Projects  
 Here are some of the projects I’ve worked on or am currently developing:  
-- **[Descomplica](https://github.com/rmigon/Descomplica)**: Projects worked on during my course at Faculdade Descomplica.  
+- **[Descomplica](https://github.com/rmigon/Descomplica)**: Projects for my Data Science course at Faculdade Descomplica.
+- **[Astronomy](https://github.com/rmigon/Astronomy)**: Projects for my Astronomy course at Universidade Federal do Rio de Janeiro (UFRJ).
 - **[PS-Analytica](https://github.com/rmigon/PS-Analytica)**: A project for a selection process. I worked with a group of people to analyse and treat data from thousands of football matches and develop a machine learning model to predict results for future matches. 
 
 ### 🌟 About Me  
